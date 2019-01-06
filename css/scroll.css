@@ -1,0 +1,52 @@
+.container
+		{
+			height: 30vh;
+			width: 99%;
+			display: inline-flex;
+		}
+		.next
+		{
+			float: right;
+			height: 100%;
+			width: 90px;
+			border: 1px solid #000;
+		}
+		.sec
+		{
+			margin: 5px 5px;
+			width: 92%;
+			height: 28vh;
+			overflow: hidden;
+		}
+		.pack
+		{
+			height: 100%;
+			width: 120px;
+			margin-left: 10px;
+			overflow: hidden;
+		}
+		.secscroll
+		{
+			height: 100%;
+			width: 500%;
+			display: inline-flex;
+		}
+		.items
+		{
+			height: 80%;
+			width: 100%;
+		}
+		.movname
+		{
+			height: 20%;
+			width: 100%;
+			background-color: #0f09fa;
+			overflow: hidden;
+			align-content: center;
+		}
+		.movname h5
+		{
+			margin: 2px;
+			margin-left: 5px;
+			color: #fff;
+		}

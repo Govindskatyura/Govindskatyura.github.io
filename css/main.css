@@ -1,0 +1,345 @@
+		body
+		{
+			margin: 0;
+			padding: 0;
+			background-color: #615959;
+		}
+	nav
+	{
+		position: absolute;
+		height: 72px;
+		width: 100%;
+		background-color: #785B5B;
+		box-shadow: 5 8 6 #000000; 
+	}
+	nav>b
+	{
+		color: #fff;
+		font-family: Tekton Pro;
+		font-size: 50px;
+		margin:13px 22px;
+	}
+	nav>i
+	{
+		font-family: Tw Cen MT;
+		color: #fff;
+		font-size: 15px;
+		margin: 323px 0px;
+	}
+	nav>a
+	{
+		position: relative;
+		font-size: 35px;
+		font-family: Calisto MT;
+		color: #fff;
+		text-decoration: none;
+		margin-left: 25%;
+		padding: 20px;
+	}
+	nav>a:hover
+	{
+		text-decoration: none;
+		background-color: #b19c98;
+		color:#9c0918;
+	}
+	nav input
+	{
+		position: absolute;
+		left: 700px ;
+		top:20px;
+		height: 41px;
+		width: 458px;
+	}
+	.mid
+	{
+		position: absolute;
+		height: 860px;
+		width: 100%;
+		top: 90px;
+		left: 0;
+		display: flex;
+	}
+	.adsbox
+	{
+		position: absolute;
+		height: 100%;
+		width: 234px;
+		top: 0;
+		right: 10px;
+		float: right;
+		background-color: #f0f1f2;	
+	}
+	.adbox
+	{
+		position: relative;
+		height: 100%;
+		width: 275px;
+		background-color: #fff;
+		left:10px;
+	}
+	.content
+	{
+		position: absolute;
+		left: 300px;
+		z-index: 2;
+		top: 0;
+		height: 100%;
+		width: 700px;
+		overflow: hidden;
+		background-color: #fff;
+	}
+	footer
+	{
+		position: absolute;
+		width: 99%;
+		height: 149px;
+		background-color: #575757;
+		top: 960px;
+		border: 1px solid #707070;
+		display: inline-block;
+		overflow: hidden;
+	}
+	footer ul
+	{
+	 margin-left: 10px;
+	 display: flex;
+	}
+	footer ul li
+	{
+	 list-style: none;	
+	 padding: 20px;
+	 color: #fff;
+	}
+	footer ul li a
+	{
+		z-index: 2;
+	 	cursor: pointer;
+	 	font-size: 20px;
+	 	font-weight: bold;
+	 	color: #000000;
+	}
+	footer ul li a:hover
+	{
+		color: #ffffff;
+	}
+	footer h4
+	{
+		font-size: 17px;
+		font-family: Calisto MT;
+		text-align: center;
+		color: #fff;
+	}
+	footer h5
+	{
+		font-size: 17px;
+		font-family: Calisto MT;
+		text-align: center; 
+		color: #fff;
+		margin-bottom: 10px;
+	}
+	.movhead
+	{
+		background-color: #684848;
+		margin-top: 10px;
+		margin-left: -10px;
+		text-transform: capitalize;
+		width: 98%;
+		box-shadow: 13px 7px 6px #0f0f00;
+
+	}
+	.movhead h3
+	{
+		margin-left: 40px;
+		max-width: 50%;
+		color: #fff;
+		margin-top: 0;
+	}
+	.container table
+	{
+		height: 202px;
+		width: 100%;
+	}
+	.container table th
+	{
+		height: 161px;
+	}
+	.container table td
+	{
+		border: 1px solid #000;
+	}		body
+		{
+			margin: 0;
+			padding: 0;
+			background-color: #615959;
+		}
+	nav
+	{
+		position: absolute;
+		height: 72px;
+		width: 100%;
+		background-color: #785B5B;
+		box-shadow: 5 8 6 #000000; 
+	}
+	nav>b
+	{
+		color: #fff;
+		font-family: Tekton Pro;
+		font-size: 50px;
+		margin:13px 22px;
+	}
+	nav>i
+	{
+		font-family: Tw Cen MT;
+		color: #fff;
+		font-size: 15px;
+		margin: 323px 0px;
+	}
+	nav>a
+	{
+		position: relative;
+		font-size: 35px;
+		font-family: Calisto MT;
+		color: #fff;
+		text-decoration: none;
+		margin-left: 25%;
+		padding: 20px;
+	}
+	nav>a:hover
+	{
+		text-decoration: none;
+		background-color: #b19c98;
+		color:#9c0918;
+	}
+	nav input
+	{
+		position: absolute;
+		left: 990px ;
+		top:20px;
+		height: 1px;
+		padding: 20px;
+		width: 300px;
+	}
+	.mid
+	{
+		position: absolute;
+		height: 860px;
+		width: 100%;
+		top: 90px;
+		left: 0;
+		display: flex;
+	}
+	.adsbox
+	{
+		position: absolute;
+		height: 100%;
+		width: 234px;
+		top: 0;
+		right: 10px;
+		float: right;
+		background-color: #f0f1f2;	
+	}
+	.adbox
+	{
+		position: relative;
+		height: 100%;
+		width: 275px;
+		background-color: #fff;
+		left:10px;
+	}
+	.content
+	{
+		position: absolute;
+		width: 55%;
+		left: 312px;
+		top: 0;
+		height: 100%;
+		background-color: #fff;
+	}
+	footer
+	{
+		position: absolute;
+		width: 100%;
+		height: 149px;
+		background-color: #575757;
+		top: 960px;
+		border: 1px solid #707070;
+		display: inline-block;
+		overflow: hidden;
+	}
+	footer ul
+	{
+	 margin-left: 10px;
+	 display: flex;
+	}
+	footer ul li
+	{
+	 list-style: none;	
+	 padding: 20px;
+	 color: #fff;
+	}
+	footer ul li a
+	{
+		z-index: 2;
+	 	cursor: pointer;
+	 	font-size: 20px;
+	 	font-weight: bold;
+	 	color: #000000;
+	 	text-decoration: none;
+	}
+	footer ul li a:hover
+	{
+		transition: 0.5s;
+		color: #ffffff;
+	}
+	footer h4
+	{
+		font-size: 17px;
+		font-family: Calisto MT;
+		text-align: center;
+		color: #fff;
+	}
+	footer h5
+	{
+		font-size: 17px;
+		font-family: Calisto MT;
+		text-align: center; 
+		color: #fff;
+		margin-bottom: 10px;
+	}
+	.movhead
+	{
+		background-color: #684848;
+		margin-top: 10px;
+		margin-left: -10px;
+		text-transform: capitalize;
+		width: 98%;
+		box-shadow: 13px 7px 6px #0f0f00;
+
+	}
+	.movhead h3
+	{
+		margin-left: 40px;
+		max-width: 50%;
+		color: #fff;
+		margin-top: 0;
+	}
+	.container table
+	{
+		height: 202px;
+		width: 100%;
+	}
+	.container table th
+	{
+		height: 161px;
+	}
+	.container table td
+	{
+		border: 1px solid #000;
+	}
+	.next
+	{
+		align-content: center;
+	}
+	a{
+		cursor: pointer;
+	}
